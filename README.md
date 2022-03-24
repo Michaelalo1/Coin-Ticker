@@ -9,7 +9,7 @@ The objective of this project is to practice using Cupertino and Material Widget
 
 ## What I will create
 
-I'm going to make a crypto currency price checking app. By the end of the module, I'll be able to monitor crypto live rates for several currencies!
+I'm going to make a crypto currency price checking app. By the end of the module, Here I'll be able to monitor crypto live rates for several currencies!
 
 
 ## What I Implemented
